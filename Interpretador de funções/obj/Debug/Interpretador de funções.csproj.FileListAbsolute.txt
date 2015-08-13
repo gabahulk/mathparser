@@ -1,0 +1,18 @@
+C:\Users\HULK\Documents\Visual Studio 2012\Projects\Interpretador_de_funcoes\Interpretador de funções\bin\Debug\Interpretador de funções.exe.config
+C:\Users\HULK\Documents\Visual Studio 2012\Projects\Interpretador_de_funcoes\Interpretador de funções\bin\Debug\Interpretador de funções.exe
+C:\Users\HULK\Documents\Visual Studio 2012\Projects\Interpretador_de_funcoes\Interpretador de funções\bin\Debug\Interpretador de funções.pdb
+C:\Users\HULK\Documents\Visual Studio 2012\Projects\Interpretador_de_funcoes\Interpretador de funções\obj\Debug\Interpretador_de_funções.Form1.resources
+C:\Users\HULK\Documents\Visual Studio 2012\Projects\Interpretador_de_funcoes\Interpretador de funções\obj\Debug\Interpretador_de_funções.Properties.Resources.resources
+C:\Users\HULK\Documents\Visual Studio 2012\Projects\Interpretador_de_funcoes\Interpretador de funções\obj\Debug\Interpretador de funções.csproj.GenerateResource.Cache
+C:\Users\HULK\Documents\Visual Studio 2012\Projects\Interpretador_de_funcoes\Interpretador de funções\obj\Debug\Interpretador de funções.exe
+C:\Users\HULK\Documents\Visual Studio 2012\Projects\Interpretador_de_funcoes\Interpretador de funções\obj\Debug\Interpretador de funções.pdb
+C:\Users\HULK\documents\visual studio 2012\Projects\Interpretador_de_funcoes\Interpretador de funções\obj\Debug\Interpretador de funções.csprojResolveAssemblyReference.cache
+F:\Projects\Interpretador_de_funcoes\Interpretador de funções\bin\Debug\Interpretador de funções.exe.config
+F:\Projects\Interpretador_de_funcoes\Interpretador de funções\obj\Debug\Interpretador de funções.exe
+F:\Projects\Interpretador_de_funcoes\Interpretador de funções\obj\Debug\Interpretador de funções.pdb
+F:\Projects\Interpretador_de_funcoes\Interpretador de funções\bin\Debug\Interpretador de funções.exe
+F:\Projects\Interpretador_de_funcoes\Interpretador de funções\bin\Debug\Interpretador de funções.pdb
+F:\Projects\Interpretador_de_funcoes\Interpretador de funções\obj\Debug\Interpretador de funções.csprojResolveAssemblyReference.cache
+F:\Projects\Interpretador_de_funcoes\Interpretador de funções\obj\Debug\Interpretador_de_funções.Form1.resources
+F:\Projects\Interpretador_de_funcoes\Interpretador de funções\obj\Debug\Interpretador_de_funções.Properties.Resources.resources
+F:\Projects\Interpretador_de_funcoes\Interpretador de funções\obj\Debug\Interpretador de funções.csproj.GenerateResource.Cache
